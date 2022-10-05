@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u5grmhhcakfembd1/branch/master?svg=true)](https://ci.appveyor.com/project/2Evgen/gradle-api-ci/branch/master)
