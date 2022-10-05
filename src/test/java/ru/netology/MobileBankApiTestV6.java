@@ -38,4 +38,5 @@ class MobileBankApiTestV6 {
                 // static import для JsonSchemaValidator.matchesJsonSchemaInClasspath
                 .body(matchesJsonSchemaInClasspath("accounts.schema.json"))
         ;
-    }}
+    }
+}
